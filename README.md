@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<h2>🏆 Github Profile Trophy</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=chenyueban&column=7"/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/chenyueban/count.svg" />
+</p>
 
----
+I'm ChenYueBan.
 
-- 🔭 TypeScript/JavaScript
-- 🌱 Open source fancier
+- 🍒 Developer
+- 🍉 Working on [ohbug](https://github.com/ohbug-org/ohbug) currently
+- 🍑 公众号：「ohbug」
 
----
+### Github Stats
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=chenyueban&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyueban&layout=compact" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=chenyueban&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
